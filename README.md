@@ -11,10 +11,22 @@ sur le même téléphone que MLBB.
 
 ## Télécharger l’app
 
-[**Télécharger l’APK — version 0.1.0**](https://github.com/Harinony/MLBB-TacticalPick-APK/raw/refs/heads/main/releases/TacticalPick-0.1.0-release.apk)
+[**Télécharger l’APK — version 0.2.0**](https://github.com/Harinony/MLBB-TacticalPick-APK/raw/refs/heads/main/releases/TacticalPick-0.2.0-release.apk)
 
-Android **8.0 ou plus récent**, environ **9 Mo**.
-[Empreinte SHA-256](releases/TacticalPick-0.1.0-release.apk.sha256).
+Android **8.0 ou plus récent**, environ **10 Mo**.
+[Empreinte SHA-256](releases/TacticalPick-0.2.0-release.apk.sha256).
+
+### Nouveautés de la version 0.2.0
+
+- Données de matchups plus complètes et notes de pertinence mieux différenciées.
+- Suggestions compactes, avec les détails accessibles d’un appui.
+- Filtres de lane dans la vue flottante et retour au début des suggestions après un changement de filtre.
+- Héros déjà pris ou bannis grisés et désactivés, avec des couleurs distinctes et des cartes de même hauteur.
+- Bulle et panneau flottants plus transparents.
+
+Cette APK peut mettre à jour la version signée 0.1.0. Si tu reprends une ancienne
+draft, termine la session puis ouvre **Réglages → Appliquer aux sélections conservées**
+pour utiliser les nouvelles données sans vider tes picks.
 
 ## Prêt pour la draft ?
 
@@ -44,7 +56,7 @@ varier. Tu peux aussi accéder à la fiche de l’app via **Paramètres → Appl
 
 ## L’app évolue avec tes retours
 
-Cette première version se concentre sur la draft manuelle et les conseils de pick.
+L’app se concentre sur la draft manuelle et les conseils de pick.
 Un souci avec la bulle ou une idée pour rendre la draft plus pratique ?
 [Partage ton retour](https://github.com/Harinony/MLBB-TacticalPick-APK/issues) en précisant
 ton modèle de téléphone et ta version d’Android.
