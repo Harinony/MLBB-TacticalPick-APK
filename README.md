@@ -11,22 +11,21 @@ sur le même téléphone que MLBB.
 
 ## Télécharger l’app
 
-[**Télécharger l’APK — version 0.2.0**](https://github.com/Harinony/MLBB-TacticalPick-APK/raw/refs/heads/main/releases/TacticalPick-0.2.0-release.apk)
+[**Télécharger la dernière version (APK)**](https://github.com/Harinony/MLBB-TacticalPick-APK/releases/latest/download/TacticalPick.apk)
 
 Android **8.0 ou plus récent**, environ **10 Mo**.
-[Empreinte SHA-256](releases/TacticalPick-0.2.0-release.apk.sha256).
+[Empreinte SHA-256](https://github.com/Harinony/MLBB-TacticalPick-APK/releases/latest/download/TacticalPick.apk.sha256).
 
-### Nouveautés de la version 0.2.0
+### Ce que tu retrouveras dans l’app
 
-- Données de matchups plus complètes et notes de pertinence mieux différenciées.
-- Suggestions compactes, avec les détails accessibles d’un appui.
-- Filtres de lane dans la vue flottante et retour au début des suggestions après un changement de filtre.
-- Héros déjà pris ou bannis grisés et désactivés, avec des couleurs distinctes et des cartes de même hauteur.
-- Bulle et panneau flottants plus transparents.
+- Recherche de héros directement visible dans l’app et le panneau flottant.
+- Conseils de picks et de bans avec filtres de lane et détails accessibles d’un appui.
+- Avantage de draft actualisé à chaque pick, avec les matchups qui font la différence.
+- Analyse accessible sous les équipes, dans la partie défilante de la draft.
+- Bouton **En bulle** pour passer de l’app à l’assistant flottant en conservant ta draft.
 
-Cette APK peut mettre à jour la version signée 0.1.0. Si tu reprends une ancienne
-draft, termine la session puis ouvre **Réglages → Appliquer aux sélections conservées**
-pour utiliser les nouvelles données sans vider tes picks.
+Tu peux installer cette APK par-dessus une version signée précédente. L’avantage
+de draft est une estimation de la composition, pas une probabilité de victoire.
 
 ## Prêt pour la draft ?
 
